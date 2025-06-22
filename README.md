@@ -1,4 +1,5 @@
 🚀 Features
+
 🎮 Play against the computer
 
 🧠 Randomized computer moves
@@ -11,6 +12,7 @@
 
 
 🧩 Game Rules
+
 Rock beats Scissors
 
 Scissors beats Paper
